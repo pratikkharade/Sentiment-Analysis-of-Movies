@@ -9,4 +9,4 @@ The Machine Learning techniques and the datasets used are as follows:
 5. Logistic_regression-roberta.ipynb, Dataset needed - RoBERTa
 6. Voting_classifier-roberta_tfidf.ipynb, Dataset needed - RoBERTa + TFIDF
 
-Dataset link: https://drive.google.com/drive/folders/1vU8gjBb5Kcg4A0ovbZ8FY0Y6VCPRROor?usp=sharing
+Dataset link: https://drive.google.com/drive/folders/1vU8gjBb5Kcg4A0ovbZ8FY0Y6VCPRROor
